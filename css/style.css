@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+
+body{
+    
+    width: 100%;
+    background-color: black;
+   background-image: url(../css/Sem\ título2.png);
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-position: 100px;
+   background-position-y: 440px;
+
+}
+
+h1{
+    color: red;
+    font-size: 30px;
+}
+
+.photo img{
+    border-radius: 30px;
+    height: 600px;
+    width: 1400px;
+}
+
+h2{
+    color: rgb(14, 14, 148);
+}
+
+a{
+    position: relative;
+    top: 100px;
+    font-size: 30px;
+}
+p{
+    color:aliceblue;
+    font-family: 'Open Sans', sans-serif;
+}
